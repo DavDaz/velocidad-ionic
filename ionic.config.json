@@ -1,5 +1,7 @@
 {
   "name": "app_rsh",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
